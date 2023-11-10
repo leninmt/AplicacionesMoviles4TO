@@ -1,4 +1,4 @@
-# Install script for directory: C:/cuarto_a/navegacion/navegar/windows/flutter
+# Install script for directory: C:/cuarto_a_n/navegacion/NavLM/navegacion/windows/flutter
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
