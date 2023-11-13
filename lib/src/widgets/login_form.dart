@@ -19,7 +19,7 @@ class _LoginFormState extends State<LoginForm> {
         children:<Widget> [
           InputText(hint: "Email Adrees",
           label: "Email Adrees",
-          keyboard: TextInputType.emailAddress, icono:  ,
+          keyboard: TextInputType.emailAddress, icono:
           )
         ],
       ),
